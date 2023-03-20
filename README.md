@@ -3,7 +3,7 @@
  * @Github: https://github.com/yuhai-yang
  * @Date: 2023-03-20 10:29:17
  * @LastEditors: yyhaier
- * @LastEditTime: 2023-03-20 11:34:45
+ * @LastEditTime: 2023-03-20 11:46:19
  * @FilePath: /blockchain-academy-contract/README.md
 -->
 # BLOCKCHAIN ACADEMY CONTRACT
@@ -16,10 +16,12 @@
 什么是流动性挖矿：https://mirror.xyz/xyyme.eth/_yGLvqTXQCX-UYRp_sWMR7MuDDKWuEhOw0S5QqJXr84
 
 ### ENV 
+> msg.sender: 0x7985Fe50e6a9D3a658e623d11E40bC5C34f18863  
 Network: BSC Test Net  
 Scan: https://testnet.bscscan.com/
+
 ### Deployed
-> msg.sender: 0x7985Fe50e6a9D3a658e623d11E40bC5C34f18863
+
 1. Deploy rewardToken contract.  
     Contract Address:0x0619aaceE9bAe29A76244247A844100be52A3e4B  
     Transaction Hash: 0xba714963ad4d28578532a0937f46182315640730f0c62312f2e8d3cf39d09979
