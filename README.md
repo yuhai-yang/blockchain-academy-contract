@@ -15,6 +15,9 @@
 2. 完成流动性挖矿合约的部署
 什么是流动性挖矿：https://mirror.xyz/xyyme.eth/_yGLvqTXQCX-UYRp_sWMR7MuDDKWuEhOw0S5QqJXr84
 
+### ENV 
+Network: BSC Test Net  
+Scan: https://testnet.bscscan.com/
 ### Deployed
 > msg.sender: 0x7985Fe50e6a9D3a658e623d11E40bC5C34f18863
 1. Deploy rewardToken contract.  
