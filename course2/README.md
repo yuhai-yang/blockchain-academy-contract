@@ -3,7 +3,7 @@
  * @Github: https://github.com/yuhai-yang
  * @Date: 2023-04-03 10:45:54
  * @LastEditors: yyhaier
- * @LastEditTime: 2023-04-03 16:06:27
+ * @LastEditTime: 2023-04-03 16:08:41
  * @FilePath: /blockchain-academy-contract/course2/README.md
 -->
 # UPGRADE CONTRACT
@@ -18,6 +18,7 @@
 
 ## Upgrade Logic Contract
 > add increaseKey logic
+
 ![](./images/upgrade.png)
 
 ## Verify New Logic Contract
